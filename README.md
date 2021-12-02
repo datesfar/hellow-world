@@ -1,2 +1,2 @@
-# hellow-world
-my first githab repository
+# hello-world
+my first github repository
